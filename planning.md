@@ -73,3 +73,6 @@
 
 ## Current Goal
 Define Notion schema and set up project environments
+
+## Future Ideas
+- Add a Rich Text Editor for content updates
